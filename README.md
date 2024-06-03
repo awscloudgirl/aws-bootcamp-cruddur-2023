@@ -84,13 +84,9 @@ Cruddur will succeed by being a true ephemeral-first micro-blogging platform.
 
 ![Cruddur Screenshot](_docs/assets/cruddur-screenshot.png)
 
-## Instructions
+## Journal
 
-At the start of the bootcamp you need to create a new Github Repository from this template.
-
-## Journaling Homework
-
-The `/journal` directory contains
+Here is a journal of each successive week of the project:
 
 - [ ] [Week 0](journal/week0.md)
 - [ ] [Week 1](journal/week1.md)
