@@ -1,5 +1,7 @@
 # AWS Cloud Project Bootcamp
 
+![Cruddur Graphic](_docs/assets/cruddur-banner.jpg)
+
 ## Project Scenario
 
 A startup company has decided to build its own micro-blogging platform and has hired me to be its first cloud engineer.
@@ -23,8 +25,6 @@ The web application:
 - Takes advantage of modern-applications cloud services.
 
 The startup company has spent the majority of its funding on hiring me for the next 6 months (but mostly spent the money on marketing and buying a really cool domain), so I also need to ensure I keep the cloud provider costs as low as possible.
-
-![Cruddur Graphic](_docs/assets/cruddur-banner.jpg)
 
 ## Project Description
 
